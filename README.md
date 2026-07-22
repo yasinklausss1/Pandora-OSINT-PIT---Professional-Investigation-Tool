@@ -1,7 +1,5 @@
-<img width="1792" height="1029" alt="image" src="https://github.com/user-attachments/assets/2d61edf6-6d0a-469a-9f02-246954b92cf8" />
-<img width="1761" height="1030" alt="image" src="https://github.com/user-attachments/assets/f4c85c31-ef25-4416-bd0b-8ac38d31c9db" />
-<img width="1771" height="1029" alt="image" src="https://github.com/user-attachments/assets/4c95ecab-1290-49f3-ab4f-4652d01d4bfc" />
-<img width="1783" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a34f301-8239-41e6-827b-19198d74c146" />
+
+
 <img width="1735" height="1026" alt="image" src="https://github.com/user-attachments/assets/3d297cdd-aaf2-42f9-b055-7cf1187012e7" />
 <img width="1759" height="1030" alt="image" src="https://github.com/user-attachments/assets/353e3ab8-b69a-40a1-aa70-c2c19b9842c4" />
 
@@ -51,6 +49,7 @@ By using this software, you acknowledge and agree that:
 | **Technology Detection** | Identifies web technologies (CMS, frameworks, analytics, CDN) |
 | **Wayback Machine History** | Retrieves historical snapshots from the Internet Archive |
 | **Google Dorking** | Generates advanced Google search queries (admin panels, exposed files, SQL errors, etc.) |
+<img width="1792" height="1029" alt="image" src="https://github.com/user-attachments/assets/2d61edf6-6d0a-469a-9f02-246954b92cf8" />
 
 ### 👤 People & Social Media OSINT
 | Tool | Description |
@@ -59,6 +58,7 @@ By using this software, you acknowledge and agree that:
 | **Email OSINT** | Validates email format, checks MX records, detects disposable domains, fetches Gravatar, checks Have I Been Pwned breaches |
 | **Phone Number Lookup** | Identifies carrier, location, line type (mobile/voip/landline), country, timezone using libphonenumber |
 | **Email Format Guesser** | Generates common email format patterns from first/last name + domain |
+<img width="1761" height="1030" alt="image" src="https://github.com/user-attachments/assets/f4c85c31-ef25-4416-bd0b-8ac38d31c9db" />
 
 ### 🔌 Network & Security Tools
 | Tool | Description |
@@ -71,6 +71,7 @@ By using this software, you acknowledge and agree that:
 | **Hash Identifier** | Identifies hash type based on length and character pattern |
 | **QR Code Generator** | Creates QR codes from text/URL input (saves as PNG) |
 | **Shodan Query** | Queries Shodan API for host information or search (requires API key) |
+<img width="1771" height="1029" alt="image" src="https://github.com/user-attachments/assets/4c95ecab-1290-49f3-ab4f-4652d01d4bfc" />
 
 ### 📊 Data Analysis
 | Tool | Description |
@@ -82,6 +83,7 @@ By using this software, you acknowledge and agree that:
 | **Reverse Image Search** | Generates search URLs for Google Images, TinEye, Yandex, Bing, SauceNAO |
 | **IP WHOIS (RDAP)** | Queries RIPE RDAP database for IP ownership and organization info |
 | **Website Online Check** | Checks if a website is reachable with response time |
+<img width="1783" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a34f301-8239-41e6-827b-19198d74c146" />
 
 ### 📁 Export & Reporting
 | Format | Description |
