@@ -1,3 +1,10 @@
+<img width="1792" height="1029" alt="image" src="https://github.com/user-attachments/assets/2d61edf6-6d0a-469a-9f02-246954b92cf8" />
+<img width="1761" height="1030" alt="image" src="https://github.com/user-attachments/assets/f4c85c31-ef25-4416-bd0b-8ac38d31c9db" />
+<img width="1771" height="1029" alt="image" src="https://github.com/user-attachments/assets/4c95ecab-1290-49f3-ab4f-4652d01d4bfc" />
+<img width="1783" height="1024" alt="image" src="https://github.com/user-attachments/assets/9a34f301-8239-41e6-827b-19198d74c146" />
+<img width="1735" height="1026" alt="image" src="https://github.com/user-attachments/assets/3d297cdd-aaf2-42f9-b055-7cf1187012e7" />
+<img width="1759" height="1030" alt="image" src="https://github.com/user-attachments/assets/353e3ab8-b69a-40a1-aa70-c2c19b9842c4" />
+
 # 🕵️ PANDORA OSINT PIT - Professional Investigation Tool
 
 **Version 1.0.0 | Team: PANDORA**
