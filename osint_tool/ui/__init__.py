@@ -1,2 +1,0 @@
-# OSINT Pro - UI Package
-
