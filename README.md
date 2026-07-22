@@ -1,8 +1,3 @@
-
-
-<img width="1735" height="1026" alt="image" src="https://github.com/user-attachments/assets/3d297cdd-aaf2-42f9-b055-7cf1187012e7" />
-<img width="1759" height="1030" alt="image" src="https://github.com/user-attachments/assets/353e3ab8-b69a-40a1-aa70-c2c19b9842c4" />
-
 # 🕵️ PANDORA OSINT PIT - Professional Investigation Tool
 
 **Version 1.0.0 | Team: PANDORA**
@@ -93,7 +88,7 @@ By using this software, you acknowledge and agree that:
 | **JSON** | Machine-readable data export |
 | **CSV** | Spreadsheet-compatible export |
 | **TXT** | Plain text report |
-
+<img width="1759" height="1030" alt="image" src="https://github.com/user-attachments/assets/353e3ab8-b69a-40a1-aa70-c2c19b9842c4" />
 ---
 
 ## 🚀 Installation
